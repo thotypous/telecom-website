@@ -1,9 +1,9 @@
 # Site settings
-title: "1001504 / CCO-130"
+title: "1001505"
 #email: your-email@domain.com
-description: "Redes de Computadores"
+description: "Tecnologia e Comunicação de Dados"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://redes.pmatias.me" # the base hostname & protocol for your site
+url: "https://telecom.pmatias.me" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
