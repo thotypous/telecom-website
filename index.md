@@ -10,3 +10,7 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
 
  * Terças-feiras das 14h às 18h<br />Sala LE1 – Departamento de Computação
 
+## Links
+
+ * [Transmissões](https://www.twitch.tv/thotypous)
+ * [Lista de presença](https://docs.google.com/spreadsheets/d/1bb2c2ohUwHGIatw6qHX89ZSnBcWnIuNOeRVXhl5OxHs/edit?usp=sharing) (acesso restrito a estudantes oficialmente inscritos)
