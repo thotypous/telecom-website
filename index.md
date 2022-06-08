@@ -13,4 +13,4 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
 ## Links
 
  * [Transmissões](https://www.twitch.tv/thotypous)
- * [Lista de presença](https://docs.google.com/spreadsheets/d/1bb2c2ohUwHGIatw6qHX89ZSnBcWnIuNOeRVXhl5OxHs/edit?usp=sharing) (acesso restrito a estudantes oficialmente inscritos)
+ * [Lista de presença](https://docs.google.com/spreadsheets/d/1bb2c2ohUwHGIatw6qHX89ZSnBcWnIuNOeRVXhl5OxHs/edit?usp=sharing) (acesso somente com e-mail UFSCar)

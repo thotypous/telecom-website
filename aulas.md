@@ -4,10 +4,6 @@ title: Aulas
 permalink: /aulas/
 ---
 
-# Bibliografia
-
-Vide [plano de ensino](https://docs.google.com/document/d/1sHKAKTj7BQDg5MJUQtLxsjGqWzOgBQ5Xq0mFsJJWklg/edit?usp=sharing).
-
 # Agenda
 
 Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
@@ -16,89 +12,109 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Tópicos
 
-* Conceitos de telecomunicações, sinais e sistemas; canais e ruído; meios guiados de transmissão; modulação e demodulação analógica; telefonia e comutação analógica
+* Conceitos de telecomunicações, sinais e sistemas
+* Canais e ruído
+* Meios guiados de transmissão
+* Modulação e demodulação analógica
+* Telefonia e comutação analógica
 
 * Prática 1 - implementação de um modem para linha telefônica analógica
 
 ### Leituras
 
-TBA
+* TBA
+
+### Errata
+
+* Quando eu falei sobre "lei dos grandes números", eu queria dizer "[teorema central do limite](https://en.wikipedia.org/wiki/Central_limit_theorem#Lyapunov_CLT)" 😅
 
 ### Avaliações
 
-* dia 14/06 - mini-teste teórico
-* dia 21/06 - prazo para finalização da prática
+* 14/06 - mini-teste teórico
+* 21/06 - prazo para finalização da prática
 
 ## Aulas 4 a 5 (28/06, 05/07)
 
 ### Tópicos
 
-* Modulação e demodulação pulsada; sincronização; multiplexação; telefonia e comutação digital; delimitação; detecção de erros
+* Modulação e demodulação pulsada
+* Sincronização
+* Multiplexação
+* Telefonia e comutação digital
+* Delimitação
+* Detecção de erros
 
 * Prática 2 - implementação de uma interface E1
 
 ### Leituras
 
-TBA
+* TBA
 
 ### Avaliações
 
-* dia 28/06 - mini-teste teórico
-* dia 05/07 - prazo para finalização da prática
+* 28/06 - mini-teste teórico
+* 05/07 - prazo para finalização da prática
 
 
 ## Aulas 6 a 7 (12/07, 19/07)
 
 ### Tópicos
 
-* Controle de acesso ao meio físico; endereçamento
+* Controle de acesso ao meio físico
+* Endereçamento
 
 * Prática 3 - implementação de uma interface Ethernet
 
 ### Leituras
 
-TBA
+* TBA
 
 ### Avaliações
 
-* dia 12/07 - mini-teste teórico
-* dia 19/07 - prazo para finalização da prática
+* 12/07 - mini-teste teórico
+* 19/07 - prazo para finalização da prática
 
 
 ## Aulas 8 a 9 (26/07, 02/08)
 
 ### Tópicos
 
-* Propagação em meios não guiados; projeto e aferição de antenas; link budget; introdução ao radioamadorismo, espectro e licenciamento
+* Propagação em meios não guiados
+* Projeto e aferição de antenas
+* Link budget
+* Introdução ao radioamadorismo, espectro e licenciamento
 
 * Prática 4 - implementação de um modem AFSK, construção de uma antena e comunicação com um satélite
 
 ### Leituras
 
-TBA
+* TBA
 
 ### Avaliações
 
-* dia 26/07 - mini-teste teórico
-* dia 02/08 - prazo para finalização da prática
+* 26/07 - mini-teste teórico
+* 02/08 - prazo para finalização da prática
 
 
 ## Aulas 10 a 11 (09/08, 16/08)
 
 ### Tópicos
 
-* Códigos de correção de erro; retransmissão; modulação multiportadora; rádio definido por software
+* Códigos de correção de erro
+* Retransmissão
+* Modulação multiportadora
+* Rádio definido por software
 
 * Prática 5 - implementação de Wi-Fi usando rádio definido por software
 
 ### Leituras
 
-TBA
+* TBA
 
 ### Avaliações
 
-* dia 09/08 - mini-teste teórico
-* dia 16/08 - prazo para finalização da prática
+* 09/08 - mini-teste teórico
+* 16/08 - prazo para finalização da prática
 
 
 ## Aulas 12 a 14 (23/08, 30/08, 06/09)
@@ -109,4 +125,11 @@ Desenvolvimento dos seminários
 ## Aula 15 (13/09)
 
 Apresentação dos seminários
+
+
+# Referências
+
+[1] NASCIMENTO, Juarez do. Telecomunicações. 2. ed. São Paulo, SP: Makron Books, 2000. 341 p. ISBN 9788534611138.
+
+[2] SCHWARZINGER, Andreas. Digital Signal Processing in Modern Communication Systems. 2. ed. 2022. 637 p. ISBN 9780988873506.
 
