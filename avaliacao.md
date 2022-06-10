@@ -22,7 +22,7 @@ onde
 
 ```
 NP = (P1 + P2 + P3 + P4 + P5)/5
-NT = sorted([T1, T2, T3, T4, T5])[-4:]/4    # média das 4 melhores notas em mini-testes teóricos
+NT = sum(sorted([T1, T2, T3, T4, T5])[-4:])/4    # média das 4 melhores notas em mini-testes teóricos
 NS = S1
 ```
 
