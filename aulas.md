@@ -22,8 +22,8 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Leituras
 
-* Capítulo 14 – Modulações chaveadas de [[1]](#referências)
-* Capítulo 20 – Continuous-Phase Frequency Shift Keying (FSK) do [material suplementar](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf#page=18) de [[2]](#referências), ou [em formato de slides](https://user.eng.umd.edu/~tretter/commlab/c6713slides/FSKSlides.pdf)
+* Capítulo 14 – *Modulações chaveadas* de [[1]](#referências)
+* Capítulo 20 – *Continuous-Phase Frequency Shift Keying (FSK)* do [material suplementar](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf#page=18) de [[2]](#referências), ou [em formato de slides](https://user.eng.umd.edu/~tretter/commlab/c6713slides/FSKSlides.pdf)
 
 ### Errata
 
@@ -49,8 +49,8 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Leituras
 
-* Capítulo 18 – Transmissão Digital de [[1]](#referências)
-* Capítulo 19 – Hierarquia Digital de [[1]](#referências)
+* Capítulo 18 – *Transmissão Digital* de [[1]](#referências)
+* Capítulo 19 – *Hierarquia Digital* de [[1]](#referências)
 
 ### Avaliações
 
