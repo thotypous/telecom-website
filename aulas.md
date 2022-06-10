@@ -15,14 +15,15 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * Conceitos de telecomunicações, sinais e sistemas
 * Canais e ruído
 * Meios guiados de transmissão
-* Modulação e demodulação analógica
+* Modulações chaveadas
 * Telefonia e comutação analógica
 
 * Prática 1 - implementação de um modem para linha telefônica analógica
 
 ### Leituras
 
-* TBA
+* Capítulo 14 – Modulações chaveadas de [[1]](#referências)
+* Capítulo 20 – Continuous-Phase Frequency Shift Keying (FSK) do [material suplementar](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf#page=18) de [[2]](#referências), ou [em formato de slides](https://user.eng.umd.edu/~tretter/commlab/c6713slides/FSKSlides.pdf)
 
 ### Errata
 
@@ -37,7 +38,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Tópicos
 
-* Modulação e demodulação pulsada
+* Modulação pulsada
 * Sincronização
 * Multiplexação
 * Telefonia e comutação digital
@@ -48,7 +49,8 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Leituras
 
-* TBA
+* Capítulo 18 – Transmissão Digital de [[1]](#referências)
+* Capítulo 19 – Hierarquia Digital de [[1]](#referências)
 
 ### Avaliações
 
@@ -127,9 +129,14 @@ Desenvolvimento dos seminários
 Apresentação dos seminários
 
 
+# Outros materiais de apoio
+
+* [Slides – Stanford EE179](https://web.stanford.edu/class/ee179/Notes.html)
+
+
 # Referências
 
 [1] NASCIMENTO, Juarez do. Telecomunicações. 2. ed. São Paulo, SP: Makron Books, 2000. 341 p. ISBN 9788534611138.
 
-[2] SCHWARZINGER, Andreas. Digital Signal Processing in Modern Communication Systems. 2. ed. 2022. 637 p. ISBN 9780988873506.
+[2] TRETTER, Steven A. Communication System Design Using DSP Algorithms With Laboratory Experiments for the TMS320C6701 and TMS320C6711. Springer, 2003. 301 p. ISBN 9780306474293.
 
