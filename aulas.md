@@ -25,6 +25,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * Capítulo 14 – *Modulações chaveadas* de [[1]](#referências)
 * Capítulo 20 – *Continuous-Phase Frequency Shift Keying (FSK)* do [material suplementar](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf#page=18) de [[2]](#referências), ou [em formato de slides](https://user.eng.umd.edu/~tretter/commlab/c6713slides/FSKSlides.pdf)
 
+### Roteiro
+
+* [Work in progress...](https://docs.google.com/document/d/1WVANuM4S1_N0C0CB4kptYKnvXjj98FI7Zwk9-TcINT0/edit?usp=sharing)
+
 ### Errata
 
 * Quando eu falei sobre "lei dos grandes números", eu queria dizer "[teorema central do limite](https://en.wikipedia.org/wiki/Central_limit_theorem#Lyapunov_CLT)" 😅
