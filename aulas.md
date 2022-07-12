@@ -38,7 +38,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 14/06 - mini-teste teórico
 * ?? - prazo para finalização da prática
 
-## Aulas 4 a 5 (11/07, 18/07)
+## Aulas 4 a 5 (12/07, 19/07)
 
 ### Tópicos
 
@@ -58,7 +58,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 11/07 - mini-teste teórico
+* 12/07 - mini-teste teórico
 * ?? - prazo para finalização da prática
 
 
