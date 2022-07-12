@@ -36,9 +36,9 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ### Avaliações
 
 * 14/06 - mini-teste teórico
-* 21/06 - prazo para finalização da prática
+* ?? - prazo para finalização da prática
 
-## Aulas 4 a 5 (28/06, 05/07)
+## Aulas 4 a 5 (11/07, 18/07)
 
 ### Tópicos
 
@@ -58,11 +58,11 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 28/06 - mini-teste teórico
-* 05/07 - prazo para finalização da prática
+* 11/07 - mini-teste teórico
+* ?? - prazo para finalização da prática
 
 
-## Aulas 6 a 7 (12/07, 19/07)
+## Aulas 6 a 7 (??)
 
 ### Tópicos
 
@@ -77,11 +77,11 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 12/07 - mini-teste teórico
-* 19/07 - prazo para finalização da prática
+* ?? - mini-teste teórico
+* ?? - prazo para finalização da prática
 
 
-## Aulas 8 a 9 (26/07, 02/08)
+## Aulas 8 a 9 (??)
 
 ### Tópicos
 
@@ -98,11 +98,11 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 26/07 - mini-teste teórico
-* 02/08 - prazo para finalização da prática
+* ?? - mini-teste teórico
+* ?? - prazo para finalização da prática
 
 
-## Aulas 10 a 11 (09/08, 16/08)
+## Aulas 10 a 11 (??)
 
 ### Tópicos
 
@@ -119,16 +119,16 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 09/08 - mini-teste teórico
-* 16/08 - prazo para finalização da prática
+* ?? - mini-teste teórico
+* ?? - prazo para finalização da prática
 
 
-## Aulas 12 a 14 (23/08, 30/08, 06/09)
+## Aulas 12 a 14 (??)
 
 Desenvolvimento dos seminários
 
 
-## Aula 15 (13/09)
+## Aula 15 (??)
 
 Apresentação dos seminários
 
