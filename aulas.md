@@ -36,7 +36,6 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ### Avaliações
 
 * 14/06 - mini-teste teórico
-* ?? - prazo para finalização da prática
 
 ## Aulas 4 a 5 (12/07, 19/07)
 
@@ -55,11 +54,11 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * Capítulo 18 – *Transmissão Digital* de [[1]](#referências)
 * Capítulo 19 – *Hierarquia Digital* de [[1]](#referências)
+* [Cisco MC3810V](/static/cisco-MC3810V.pdf)
 
 ### Avaliações
 
 * 12/07 - mini-teste teórico
-* ?? - prazo para finalização da prática
 
 
 ## Aulas 6 a 7 (??)
@@ -78,7 +77,6 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ### Avaliações
 
 * ?? - mini-teste teórico
-* ?? - prazo para finalização da prática
 
 
 ## Aulas 8 a 9 (??)
@@ -99,7 +97,6 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ### Avaliações
 
 * ?? - mini-teste teórico
-* ?? - prazo para finalização da prática
 
 
 ## Aulas 10 a 11 (??)
@@ -120,7 +117,6 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ### Avaliações
 
 * ?? - mini-teste teórico
-* ?? - prazo para finalização da prática
 
 
 ## Aulas 12 a 14 (??)
