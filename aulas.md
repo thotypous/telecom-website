@@ -54,6 +54,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * Capítulo 18 – *Transmissão Digital* de [[1]](#referências)
 * Capítulo 19 – *Hierarquia Digital* de [[1]](#referências)
+* [An Efficient FPGA Based HDB3 Decoding System Using Direct Digital Synthesis](http://www.ijfcc.org/papers/230-B278.pdf)
 * [Cisco MC3810V](/static/cisco-MC3810V.pdf)
 
 ### Avaliações
