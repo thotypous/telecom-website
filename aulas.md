@@ -63,7 +63,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 12/07 - mini-teste teórico
 
 
-## Aulas 6 a 7 (??)
+## Aulas 6 a 7
 
 ### Tópicos
 
@@ -74,14 +74,16 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Leituras
 
-* TBA
+* [The Ethernet Evolution: From 10 Meg to 10 Gig How it all Works!](https://www.iol.unh.edu/sites/default/files/knowledgebase/ethernet/ethernet_evolution.pdf) (somente até o slide 228)
+* [Building a 10BASE5 "Thick Ethernet" network](https://www1.fs.cvut.cz/cz/u12110/prt/site/lan/10BASE5.htm)
+* [How does Ronja work?](http://ronja.twibright.com/technotes/how.php)
 
 ### Avaliações
 
-* ?? - mini-teste teórico
+* 23/08 - mini-teste teórico
 
 
-## Aulas 8 a 9 (??)
+## Aulas 8 a 9
 
 ### Tópicos
 
@@ -101,7 +103,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * ?? - mini-teste teórico
 
 
-## Aulas 10 a 11 (??)
+## Aulas 10 a 11
 
 ### Tópicos
 
@@ -121,12 +123,12 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * ?? - mini-teste teórico
 
 
-## Aulas 12 a 14 (??)
+## Aulas 12 a 14
 
 Desenvolvimento dos seminários
 
 
-## Aula 15 (??)
+## Aula 15
 
 Apresentação dos seminários
 
