@@ -96,7 +96,9 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Leituras
 
-* TBA
+* [QRP to the ISS](https://www.work-sat.com/ewExternalFiles/QRP-ISS.pdf)
+* [Seminário nanoVNA - Igor Jobim PY3IG](https://www.youtube.com/playlist?list=PL3vze9c1yreiayo-c1M-bDaDPzbwdM1SZ)
+* [Playlist nanoVNA - Igor Jobim PY3IG](https://www.youtube.com/playlist?list=PL3vze9c1yrehpr-adTlAZcMglwiUEPj-_)
 
 ### Avaliações
 
@@ -116,7 +118,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Leituras
 
-* TBA
+* Seção 5.4 – *Multi Tone - OFDM* de [[3]](#referências)
+* Seção 5.6 – *Error correction* de [[3]](#referências)
+* Capítulo 6 – *Distortion, Offsets, and Noise in communication systems* de [[3]](#referências)
+* Capítulo 7 – *OFDM based communication systems* de [[3]](#referências)
 
 ### Avaliações
 
@@ -143,4 +148,6 @@ Apresentação dos seminários
 [1] NASCIMENTO, Juarez do. Telecomunicações. 2. ed. São Paulo, SP: Makron Books, 2000. 341 p. ISBN 9788534611138.
 
 [2] TRETTER, Steven A. Communication System Design Using DSP Algorithms With Laboratory Experiments for the TMS320C6701 and TMS320C6711. Springer, 2003. 301 p. ISBN 9780306474293.
+
+[3] SCHWARZINGER, Andreas. Digital Signal Processing in Modern Communication Systems. 2. ed. 2022. 637 p. ISBN 9780988873506.
 
