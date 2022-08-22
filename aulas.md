@@ -80,7 +80,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 23/08 - mini-teste teórico
+* ~~23/08 (luto)~~ 30/08 - mini-teste teórico
 
 
 ## Aulas 8 a 9
