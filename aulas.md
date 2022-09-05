@@ -103,7 +103,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* ?? - mini-teste teórico
+* 06/09 - mini-teste teórico
 
 
 ## Aulas 10 a 11
@@ -126,7 +126,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* ?? - mini-teste teórico
+* 13/09 - mini-teste teórico
 
 
 ## Aulas 12 a 14
