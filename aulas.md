@@ -8,7 +8,7 @@ permalink: /aulas/
 
 Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
-## Aulas 1 a 3 (07/06, 14/06, 21/06)
+## Aulas 1 a 3 (16/05, 23/05, 30/05)
 
 ### Tópicos
 
@@ -25,19 +25,11 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * Capítulo 14 – *Modulações chaveadas* de [[1]](#referências)
 * Capítulo 20 – *Continuous-Phase Frequency Shift Keying (FSK)* do [material suplementar](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf#page=18) de [[2]](#referências), ou [em formato de slides](https://user.eng.umd.edu/~tretter/commlab/c6713slides/FSKSlides.pdf)
 
-### Roteiro
-
-* [Work in progress...](https://docs.google.com/document/d/1WVANuM4S1_N0C0CB4kptYKnvXjj98FI7Zwk9-TcINT0/edit?usp=sharing)
-
-### Errata
-
-* Quando eu falei sobre "lei dos grandes números", eu queria dizer "[teorema central do limite](https://en.wikipedia.org/wiki/Central_limit_theorem#Lyapunov_CLT)" 😅
-
 ### Avaliações
 
-* 14/06 - mini-teste teórico
+* 23/05 - mini-teste teórico
 
-## Aulas 4 a 5 (12/07, 19/07)
+## Aulas 4 a 6 (06/06, 13/06, 20/06)
 
 ### Tópicos
 
@@ -60,10 +52,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 12/07 - mini-teste teórico
+* 06/06 - mini-teste teórico
 
 
-## Aulas 6 a 7
+## Aulas 7 a 8 (27/06, 04/07)
 
 ### Tópicos
 
@@ -80,10 +72,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* ~~23/08 (luto)~~ 30/08 - mini-teste teórico
+* 27/06 - mini-teste teórico
 
 
-## Aulas 8 a 9
+## Aulas 9 a 10 (11/07, 18/07)
 
 ### Tópicos
 
@@ -92,7 +84,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * Link budget
 * Introdução ao radioamadorismo, espectro e licenciamento
 
-* Prática 4 - implementação de um modem AFSK, construção de uma antena e comunicação com um satélite
+* Prática 4 - construção de uma antena para comunicação com um satélite
 
 ### Leituras
 
@@ -103,10 +95,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 06/09 - mini-teste teórico
+* 11/07 - mini-teste teórico
 
 
-## Aulas 10 a 11
+## Aulas 11 a 13 (25/07, 01/08, 08/08)
 
 ### Tópicos
 
@@ -115,7 +107,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * Modulação multiportadora
 * Rádio definido por software
 
-* Prática 5 - implementação de Wi-Fi usando rádio definido por software
+* Prática 5 - implementação de um modem OFDM (o plano inicial é fazer o MT63)
 
 ### Leituras
 
@@ -126,15 +118,15 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 13/09 - mini-teste teórico
+* 25/07 - mini-teste teórico
 
 
-## Aulas 12 a 14
+## Aula 14 (22/08)
 
 Desenvolvimento dos seminários
 
 
-## Aula 15
+## Aula 15 (29/08)
 
 Apresentação dos seminários
 

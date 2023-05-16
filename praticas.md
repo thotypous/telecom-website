@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Trabalhos
-permalink: /trabalhos/
+title: Práticas
+permalink: /praticas/
 ---
 
 # Links
 
-* P1: [GitHub](https://github.com/thotypous/telecom-p1), [formulário](https://forms.gle/W1ATVqMFNf1VEvcH7)
+* em breve!
 
 # Tutorial
+
+Sempre que possível, as práticas serão avaliadas por meio de correção automatica. Quando for esse o caso, veja as instruções abaixo.
 
 Veja os passos abaixo no [vídeo](https://youtu.be/JtQzTGoF8jM):
 
