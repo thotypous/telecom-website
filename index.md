@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tecnologia e Comunicação de Dados
+title: Tecnologia de Comunicação (Telecomunicações)
 ---
 
 Utilize o menu superior para acessar as informações sobre a disciplina. A página [Aulas](/aulas/) contém a agenda de aulas e materiais para estudo. A página [Avaliação](/avaliacao/) descreve os critérios de avaliação.
