@@ -24,7 +24,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * Capítulo 14 – *Modulações chaveadas* de [[1]](#referências)
 * Capítulo 20 – *Continuous-Phase Frequency Shift Keying (FSK)* do [material suplementar](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf#page=18) de [[2]](#referências), ou [em formato de slides](https://user.eng.umd.edu/~tretter/commlab/c6713slides/FSKSlides.pdf)
-* Maxim Integrated AN2141 – [Determining Clock Accuracy Requirements for UART Communications](https://www.analog.com/en/technical-articles/determining-clock-accuracy-requirements-for-uart-communications.html).
+* Maxim Integrated AN2141 – [Determining Clock Accuracy Requirements for UART Communications](https://www.analog.com/en/technical-articles/determining-clock-accuracy-requirements-for-uart-communications.html)
 
 ### Avaliações
 
