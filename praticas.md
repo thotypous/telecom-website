@@ -6,7 +6,7 @@ permalink: /praticas/
 
 # Links
 
-* em breve!
+* P1: [GitHub](https://github.com/thotypous/telecom-p1), [formulário](https://forms.gle/7E9TQu1bVFeKeGa5A)
 
 # Tutorial
 
