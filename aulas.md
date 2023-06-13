@@ -8,7 +8,7 @@ permalink: /aulas/
 
 Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
-## Aulas 1 a 3 (16/05, 23/05, 30/05)
+## Aulas 1 a 4 (16/05, 23/05, 06/06, 13/06)
 
 ### Tópicos
 
@@ -30,7 +30,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * 23/05 - mini-teste teórico
 
-## Aulas 4 a 6 (06/06, 13/06, 20/06)
+## Aulas 5 a 6 (20/06, 27/06)
 
 ### Tópicos
 
@@ -53,10 +53,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 06/06 - mini-teste teórico
+* 20/06 - mini-teste teórico
 
 
-## Aulas 7 a 8 (27/06, 04/07)
+## Aulas 7 a 8 (04/07, 11/07)
 
 ### Tópicos
 
@@ -73,10 +73,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 27/06 - mini-teste teórico
+* 04/07 - mini-teste teórico
 
 
-## Aulas 9 a 10 (11/07, 18/07)
+## Aulas 9 a 10 (18/07, 25/07)
 
 ### Tópicos
 
@@ -96,10 +96,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 11/07 - mini-teste teórico
+* 18/07 - mini-teste teórico
 
 
-## Aulas 11 a 13 (25/07, 01/08, 08/08)
+## Aulas 11 a 13 (01/08, 08/08, 22/08)
 
 ### Tópicos
 
@@ -119,15 +119,15 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 25/07 - mini-teste teórico
+* 01/08 - mini-teste teórico
 
 
-## Aula 14 (22/08)
+## Aula 14 (29/08)
 
 Desenvolvimento dos seminários
 
 
-## Aula 15 (29/08)
+## Aula 15 (05/09)
 
 Apresentação dos seminários
 
