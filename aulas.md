@@ -8,7 +8,7 @@ permalink: /aulas/
 
 Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
-## Aulas 1 a 4 (16/05, 23/05, 06/06, 13/06)
+## Aula 1 (02/04, 09/04, 16/04)
 
 ### Tópicos
 
@@ -22,15 +22,16 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Leituras
 
+* [Slides](/static/aula1.pdf)
 * Capítulo 14 – *Modulações chaveadas* de [[1]](#referências)
-* Capítulo 20 – *Continuous-Phase Frequency Shift Keying (FSK)* do [material suplementar](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf#page=18) de [[2]](#referências), ou [em formato de slides](https://user.eng.umd.edu/~tretter/commlab/c6713slides/FSKSlides.pdf)
+* Capítulo 20 – *Continuous-Phase Frequency Shift Keying (FSK)* do [material suplementar do Tretter](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf#page=18), ou [em formato de slides](https://user.eng.umd.edu/~tretter/commlab/c6713slides/FSKSlides.pdf)
 * Maxim Integrated AN2141 – [Determining Clock Accuracy Requirements for UART Communications](https://www.analog.com/en/technical-articles/determining-clock-accuracy-requirements-for-uart-communications.html)
 
 ### Avaliações
 
-* 23/05 - mini-teste teórico
+* 09/04 - mini-teste teórico
 
-## Aulas 5 a 6 (20/06, 27/06)
+## Aula 2 (23/04, 30/04, 07/05)
 
 ### Tópicos
 
@@ -53,10 +54,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 20/06 - mini-teste teórico
+* 23/04 - mini-teste teórico
 
 
-## Aulas 7 a 8 (04/07, 11/07)
+## Aula 3 (14/05, 21/05)
 
 ### Tópicos
 
@@ -73,13 +74,15 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 04/07 - mini-teste teórico
+* 14/05 - mini-teste teórico
 
 
-## Aulas 9 a 10 (18/07, 25/07)
+## Aula 4 (28/05, 04/06, 11/06)
 
 ### Tópicos
 
+* Códigos de correção de erro
+* Rádio definido por software
 * Propagação em meios não guiados
 * Projeto e aferição de antenas
 * Link budget
@@ -96,52 +99,39 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 18/07 - mini-teste teórico
+* 28/05 - mini-teste teórico
 
 
-## Aulas 11 a 13 (01/08, 08/08, 22/08)
+## Aula 5 (18/06, 25/06, 02/07)
 
 ### Tópicos
 
-* Códigos de correção de erro
 * Retransmissão
 * Modulação multiportadora
-* Rádio definido por software
 
-* Prática 5 - implementação de um modem OFDM (o plano inicial é fazer o MT63)
+* Prática 5 - implementação de um modem OFDM
 
 ### Leituras
 
-* Seção 5.4 – *Multi Tone - OFDM* de [[3]](#referências)
-* Seção 5.6 – *Error correction* de [[3]](#referências)
-* Capítulo 6 – *Distortion, Offsets, and Noise in communication systems* de [[3]](#referências)
-* Capítulo 7 – *OFDM based communication systems* de [[3]](#referências)
+* Seção 5.4 – *Multi Tone - OFDM* de [[2]](#referências)
+* Seção 5.6 – *Error correction* de [[2]](#referências)
+* Capítulo 6 – *Distortion, Offsets, and Noise in communication systems* de [[2]](#referências)
+* Capítulo 7 – *OFDM based communication systems* de [[2]](#referências)
 
 ### Avaliações
 
-* 01/08 - mini-teste teórico
+* 18/06 - mini-teste teórico
 
 
-## Aula 14 (29/08)
+## Seminário
 
-Desenvolvimento dos seminários
-
-
-## Aula 15 (05/09)
-
-Apresentação dos seminários
-
-
-# Outros materiais de apoio
-
-* [Slides – Stanford EE179](https://web.stanford.edu/class/ee179/Notes.html)
+* 16/07 – Desenvolvimento dos seminários
+* 23/07 – Apresentação dos seminários
 
 
 # Referências
 
 [1] NASCIMENTO, Juarez do. Telecomunicações. 2. ed. São Paulo, SP: Makron Books, 2000. 341 p. ISBN 9788534611138.
 
-[2] TRETTER, Steven A. Communication System Design Using DSP Algorithms With Laboratory Experiments for the TMS320C6701 and TMS320C6711. Springer, 2003. 301 p. ISBN 9780306474293.
-
-[3] SCHWARZINGER, Andreas. Digital Signal Processing in Modern Communication Systems. 2. ed. 2022. 637 p. ISBN 9780988873506.
+[2] SCHWARZINGER, Andreas. Digital Signal Processing in Modern Communication Systems. 2. ed. 2022. 637 p. ISBN 9780988873506.
 

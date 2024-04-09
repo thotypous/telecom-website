@@ -12,7 +12,8 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
 ## Links
 
  * [Transmissões](https://www.twitch.tv/thotypous)
+ * [Gravações (2024)](https://www.youtube.com/playlist?list=PLtQaN06AB3mKeHYonj3WsM1eY6jYuv-wp)
  * [Gravações (2023)](https://www.youtube.com/playlist?list=PLtQaN06AB3mK6ucLWzAFyhGSfI1ssiuDO)
  * [Gravações (2022)](https://www.youtube.com/playlist?list=PLtQaN06AB3mK0cYdvoMdI6tcciBHMFTrK)
- * Grupo da disciplina – [Telegram](https://t.me/+UYhxokWyU9Y2YTlh) ou [Matrix](https://matrix.to/#/%23ufscar-telecom-2023-1:mozilla.org)
- * [Lista de presença](https://docs.google.com/spreadsheets/d/1DyrT7CdWuKxKt0bI4xoeZplVEaVtIYZ2p6yUJVK9a8s/edit?usp=sharing) (acesso somente com e-mail UFSCar)
+ * Grupo da disciplina – [Telegram]()
+ * [Lista de presença]() (acesso somente com e-mail UFSCar)
