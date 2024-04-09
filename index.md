@@ -15,5 +15,5 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
  * [Gravações (2024)](https://www.youtube.com/playlist?list=PLtQaN06AB3mKeHYonj3WsM1eY6jYuv-wp)
  * [Gravações (2023)](https://www.youtube.com/playlist?list=PLtQaN06AB3mK6ucLWzAFyhGSfI1ssiuDO)
  * [Gravações (2022)](https://www.youtube.com/playlist?list=PLtQaN06AB3mK0cYdvoMdI6tcciBHMFTrK)
- * Grupo da disciplina – [Telegram]()
+ * Grupo da disciplina – [Telegram](https://t.me/+kmLyr8Wv3NI3NDA5)
  * [Lista de presença]() (acesso somente com e-mail UFSCar)
