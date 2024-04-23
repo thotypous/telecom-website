@@ -54,7 +54,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 23/04 - mini-teste teórico
+* 30/04 - mini-teste teórico
 
 
 ## Aula 3 (14/05, 21/05)
