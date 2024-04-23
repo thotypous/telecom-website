@@ -6,7 +6,8 @@ permalink: /praticas/
 
 # Links
 
-* P1: [GitHub](https://github.com/thotypous/telecom-p1), [formulário](https://forms.gle/7E9TQu1bVFeKeGa5A)
+* P1 (C++): [GitHub](https://github.com/thotypous/telecom-p1), [formulário](https://forms.gle/AVJAQgbTrVWEcPmD6)
+* P1 (Rust): [GitHub](https://github.com/thotypous/telecom-p1-rust), [formulário](https://forms.gle/Pa2DoHXYwRNBY7wa7)
 
 # Tutorial
 
@@ -16,7 +17,9 @@ Veja os passos abaixo no [vídeo](https://youtu.be/JtQzTGoF8jM):
 
 1. Importe o trabalho do **GitHub** para um repositório na conta de um dos membros do grupo (**não** faça um *fork*!)
 
-2. Vá em Settings / Actions e marque "Allow all actions".
+2. Vá em Settings / Actions e:
+   * em "Actions permissions", marque "Allow all actions and reusable workflows"
+   * em "Workflow permissions", marque "Read and write permissions"
 
 3. Convide os demais membros do seu grupo e o professor ([thotypous](https://GitHub.com/thotypous)) como colaboradores.
 
