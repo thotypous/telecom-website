@@ -31,7 +31,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * 09/04 - mini-teste teórico
 
-## Aula 2 (23/04, 30/04, 07/05)
+## Aula 2 (23/04, 30/04, 16/07, 23/07)
 
 ### Tópicos
 
@@ -57,7 +57,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 30/04 - mini-teste teórico
 
 
-## Aula 3 (14/05, 21/05)
+## Aula 3 (30/07, 06/08, 13/08)
 
 ### Tópicos
 
@@ -74,10 +74,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 14/05 - mini-teste teórico
+* 06/08 - mini-teste teórico
 
 
-## Aula 4 (28/05, 04/06, 11/06)
+## Aula 4 (20/08, 27/08)
 
 ### Tópicos
 
@@ -99,10 +99,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 28/05 - mini-teste teórico
+* 20/08 - mini-teste teórico
 
 
-## Aula 5 (18/06, 25/06, 02/07)
+## Aula 5 (03/09, 10/09)
 
 ### Tópicos
 
@@ -120,13 +120,12 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 18/06 - mini-teste teórico
+* 03/09 - mini-teste teórico
 
 
 ## Seminário
 
-* 16/07 – Desenvolvimento dos seminários
-* 23/07 – Apresentação dos seminários
+* 17/09 – Apresentação dos seminários
 
 
 # Referências
