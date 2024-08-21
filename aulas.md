@@ -77,7 +77,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 06/08 - mini-teste teórico
 
 
-## Aula 4 (20/08, 27/08)
+## Aula 4 (20/08)
 
 ### Tópicos
 
@@ -102,7 +102,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 20/08 - mini-teste teórico
 
 
-## Aula 5 (03/09, 10/09)
+## Aula 5 (27/08)
 
 ### Tópicos
 
@@ -120,7 +120,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 03/09 - mini-teste teórico
+* 27/08 - mini-teste teórico
 
 
 ## Seminário
