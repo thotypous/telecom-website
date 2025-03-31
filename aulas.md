@@ -8,65 +8,72 @@ permalink: /aulas/
 
 Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
-## Aula 1 (02/04, 09/04, 16/04)
+## Módulo 1 (31/03, 07/04)
 
 ### Tópicos
 
-* Conceitos de telecomunicações, sinais e sistemas
-* Canais e ruído
-* Meios guiados de transmissão
-* Modulações chaveadas
-* Telefonia e comutação analógica
+* Ruído AWGN
+* Teorema de Shannon-Hartley
+* Definição de Eb/N0
+* Teoria de linhas de transmissão
+* Histórico da telefonia
+* Modulações PAM, FSK, CPFSK, PSK, QAM, OQPSK, MSK
+* UART 8N1 e sincronia de um receptor UART
+* Histórico das modulações em linha telefônica
+* Hardware de um modem de linha telefônica
+* Funcionamento de um híbrido com amplificador operacional
+
+### Práticas
 
 * Prática 1 - implementação de um modem para linha telefônica analógica
 
-### Leituras
+### Materiais para estudo
 
 * [Slides](/static/aula1.pdf)
-* Capítulo 14 – *Modulações chaveadas* de [[1]](#referências)
-* Capítulo 20 – *Continuous-Phase Frequency Shift Keying (FSK)* do [material suplementar do Tretter](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf#page=18), ou [em formato de slides](https://user.eng.umd.edu/~tretter/commlab/c6713slides/FSKSlides.pdf)
-* Maxim Integrated AN2141 – [Determining Clock Accuracy Requirements for UART Communications](https://www.analog.com/en/technical-articles/determining-clock-accuracy-requirements-for-uart-communications.html)
+* [Vídeo](https://youtu.be/CTFn7vu3e3M)
 
 ### Avaliações
 
-* 09/04 - mini-teste teórico
+* 07/04 - mini-teste teórico
+* 28/04 - entrega da prática
 
-## Aula 2 (23/04, 30/04, 16/07, 23/07)
+## Módulo 2 (28/04, 05/05, 12/05)
 
 ### Tópicos
 
-* Modulação pulsada
-* Sincronização
-* Multiplexação
+* Códigos de linha
 * Telefonia e comutação digital
-* Delimitação
-* Detecção de erros
+* Delimitação de quadros com HDLC
+* Detecção de erros com CRC
+* Implementação de sistemas digitais complexos com BSV
+
+### Práticas
 
 * Prática 2 - implementação de uma interface E1
 
-### Leituras
+### Materiais para estudo
 
-* Capítulo 18 – *Transmissão Digital* de [[1]](#referências)
-* Capítulo 19 – *Hierarquia Digital* de [[1]](#referências)
 * [E1 Pocket Guide](https://web.fe.up.pt/~mleitao/STEL/Tecnico/E1_ACTERNA.pdf)
 * [An Efficient FPGA Based HDB3 Decoding System Using Direct Digital Synthesis](http://www.ijfcc.org/papers/230-B278.pdf)
 * [Cisco MC3810V](/static/cisco-MC3810V.pdf)
 
 ### Avaliações
 
-* 30/04 - mini-teste teórico
+* 05/05 - mini-teste teórico
+* 19/05 - entrega da prática
 
-
-## Aula 3 (30/07, 06/08, 13/08)
+## Módulo 3 (19/05, 26/05)
 
 ### Tópicos
 
 * Controle de acesso ao meio físico
 * Endereçamento
 
+### Práticas
+
 * Prática 3 - implementação de uma interface Ethernet
 
-### Leituras
+### Materiais para estudo
 
 * [The Ethernet Evolution: From 10 Meg to 10 Gig How it all Works!](https://www.iol.unh.edu/sites/default/files/knowledgebase/ethernet/ethernet_evolution.pdf) (somente até o slide 228)
 * [Building a 10BASE5 "Thick Ethernet" network](https://www1.fs.cvut.cz/cz/u12110/prt/site/lan/10BASE5.htm)
@@ -74,10 +81,11 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 06/08 - mini-teste teórico
+* 26/05 - mini-teste teórico
+* 02/06 - entrega da prática
 
 
-## Aula 4 (20/08)
+## Módulo 4 (02/06, 09/06, 16/06)
 
 ### Tópicos
 
@@ -88,9 +96,11 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * Link budget
 * Introdução ao radioamadorismo, espectro e licenciamento
 
+### Práticas
+
 * Prática 4 - construção de uma antena para comunicação com um satélite
 
-### Leituras
+### Materiais para estudo
 
 * [QRP to the ISS](https://www.work-sat.com/ewExternalFiles/QRP-ISS.pdf)
 * [Planilha explicativa de link budget da AMSAT-IARU](http://www.amsatuk.me.uk/iaru/AMSAT-IARU_Link_Model_Rev2.5.5.xls)
@@ -99,38 +109,34 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 20/08 - mini-teste teórico
+* 09/06 - mini-teste teórico
+* 09/06 e 16/06 - execução da prática e experimento em campo
 
 
-## Aula 5 (27/08)
+## Módulos 5 (23/06, 30/06)
 
 ### Tópicos
 
-* Retransmissão
-* Modulação multiportadora
+* OFDM
+
+### Práticas
 
 * Prática 5 - implementação de um modem OFDM
 
-### Leituras
+### Materiais para estudo
 
-* Seção 5.4 – *Multi Tone - OFDM* de [[2]](#referências)
-* Seção 5.6 – *Error correction* de [[2]](#referências)
-* Capítulo 6 – *Distortion, Offsets, and Noise in communication systems* de [[2]](#referências)
-* Capítulo 7 – *OFDM based communication systems* de [[2]](#referências)
+* SCHWARZINGER, Andreas. Digital Signal Processing in Modern Communication Systems. 2. ed. 2022. 637 p. ISBN 9780988873506.
+  * Seção 5.4 – *Multi Tone - OFDM*
+  * Seção 5.6 – *Error correction*
+  * Capítulo 6 – *Distortion, Offsets, and Noise in communication systems*
+  * Capítulo 7 – *OFDM based communication systems*
 
 ### Avaliações
 
-* 27/08 - mini-teste teórico
+* 30/06 - mini-teste teórico
+* 07/07 - entrega da prática
 
 
 ## Seminário
 
-* 17/09 – Apresentação dos seminários
-
-
-# Referências
-
-[1] NASCIMENTO, Juarez do. Telecomunicações. 2. ed. São Paulo, SP: Makron Books, 2000. 341 p. ISBN 9788534611138.
-
-[2] SCHWARZINGER, Andreas. Digital Signal Processing in Modern Communication Systems. 2. ed. 2022. 637 p. ISBN 9780988873506.
-
+* 21/07 – apresentação dos seminários

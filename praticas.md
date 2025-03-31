@@ -6,10 +6,9 @@ permalink: /praticas/
 
 # Links
 
-* P1 (C++): [GitHub](https://github.com/thotypous/telecom-p1), [formulário](https://forms.gle/AVJAQgbTrVWEcPmD6)
-* P1 (Rust): [GitHub](https://github.com/thotypous/telecom-p1-rust), [formulário](https://forms.gle/Pa2DoHXYwRNBY7wa7)
-* P2: [GitHub](https://github.com/thotypous/telecom-p2), [formulário](https://forms.gle/6hdpjGEmaB1kkqvu6)
-* P3: [GitHub](https://github.com/thotypous/telecom-p3), [formulário](https://forms.gle/k3srjX84fTFDxZ8o8)
+* P1 (C++): [GitHub](https://github.com/thotypous/telecom-p1), [formulário]()
+* P1 (Rust): [GitHub](https://github.com/thotypous/telecom-p1-rust), [formulário]()
+* P2: [GitHub](https://github.com/thotypous/telecom-p2), [formulário]()
 
 # Tutorial
 

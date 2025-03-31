@@ -7,7 +7,7 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
 
 ## Aulas
 
- * Terças-feiras das 14h às 18h<br />Sala LE1 – Departamento de Computação
+ * Segundas-feiras das 8h às 12h<br />Sala LE3 – Departamento de Computação
 
 ## Links
 
@@ -15,5 +15,5 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
  * [Gravações (2024)](https://www.youtube.com/playlist?list=PLtQaN06AB3mKeHYonj3WsM1eY6jYuv-wp)
  * [Gravações (2023)](https://www.youtube.com/playlist?list=PLtQaN06AB3mK6ucLWzAFyhGSfI1ssiuDO)
  * [Gravações (2022)](https://www.youtube.com/playlist?list=PLtQaN06AB3mK0cYdvoMdI6tcciBHMFTrK)
- * Grupo da disciplina – [Telegram](https://t.me/+kmLyr8Wv3NI3NDA5)
- * [Lista de presença](https://docs.google.com/spreadsheets/d/1MbKDFlOJry4sZ6cJ2KyZmzbxEnWME0912JbqVVEPWtw/edit?usp=sharing) (acesso somente com e-mail UFSCar)
+ * Grupo da disciplina – [Telegram]()
+ * [Lista de presença]() (acesso somente com e-mail UFSCar)
