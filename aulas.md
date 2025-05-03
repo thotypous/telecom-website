@@ -53,8 +53,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
+* [Vídeo - códigos de linha, TDM, HDLC](https://youtu.be/aGCOW2iAq60)
+* [Vídeo - CRC](https://youtu.be/izG7qT0EpBw)
+* [GUIMARAES, DAYAN A. Digital transmission: a simulation-aided introduction with VisSim/Comm](https://doi.org/10.1007/978-3-642-01359-1), Capítulo 4.
 * [E1 Pocket Guide](https://web.fe.up.pt/~mleitao/STEL/Tecnico/E1_ACTERNA.pdf)
-* [An Efficient FPGA Based HDB3 Decoding System Using Direct Digital Synthesis](http://www.ijfcc.org/papers/230-B278.pdf)
 * [Cisco MC3810V](/static/cisco-MC3810V.pdf)
 
 ### Avaliações
