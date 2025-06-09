@@ -104,6 +104,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
+* [Eletromagnetismo para Engenheiros de Computação](https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-spring-2009/pages/lecture-notes/)
 * [QRP to the ISS](https://www.work-sat.com/ewExternalFiles/QRP-ISS.pdf)
 * [Planilha explicativa de link budget da AMSAT-IARU](http://www.amsatuk.me.uk/iaru/AMSAT-IARU_Link_Model_Rev2.5.5.xls)
 * [Seminário nanoVNA - Igor Jobim PY3IG](https://www.youtube.com/playlist?list=PL3vze9c1yreiayo-c1M-bDaDPzbwdM1SZ)
