@@ -111,8 +111,8 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 09/06 - mini-teste teórico
-* 09/06 e 16/06 - execução da prática e experimento em campo
+* ~~09/06~~ 16/06 - mini-teste teórico
+* ~~09/06 e 16/06 - execução da prática e experimento em campo~~ vamos tentar usar a ISS, então não rola em horário de aula
 
 
 ## Módulos 5 (23/06, 30/06)
