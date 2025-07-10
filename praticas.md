@@ -6,10 +6,13 @@ permalink: /praticas/
 
 # Links
 
-* P1 (C++): [GitHub](https://github.com/thotypous/telecom-p1), [formulário](https://forms.gle/CXTun9tmLDDqweiu7)
-* P1 (Rust): [GitHub](https://github.com/thotypous/telecom-p1-rust), [formulário](https://forms.gle/F1sqHmL2MphyFXBw6)
-* P2: [GitHub](https://github.com/thotypous/telecom-p2), [formulário](https://forms.gle/nW2WWobCUi4NH6Zp6)
-* P3: [GitHub](https://github.com/thotypous/telecom-p3), [formulário](https://forms.gle/saLwV1KvQmpSVcnc7)
+1. **Modem dial-up V.21**. Escolha uma das versões abaixo:
+   * C++: [GitHub](https://github.com/thotypous/telecom-p1), [formulário](https://forms.gle/CXTun9tmLDDqweiu7)
+   * Rust: [GitHub](https://github.com/thotypous/telecom-p1-rust), [formulário](https://forms.gle/F1sqHmL2MphyFXBw6)
+2. **Interface E1**: [GitHub](https://github.com/thotypous/telecom-p2), [formulário](https://forms.gle/nW2WWobCUi4NH6Zp6)
+3. **Interface Ethernet 10baseT**: [GitHub](https://github.com/thotypous/telecom-p3), [formulário](https://forms.gle/saLwV1KvQmpSVcnc7)
+4. **Antena Yagi-Uda para 2 metros**: [GitHub](https://github.com/thotypous/telecom-p4), [formulário](https://forms.gle/Yx5gMVpQQXmX4Y4h6)
+5. **Demodulador OFDM**: em breve!
 
 # Tutorial
 
