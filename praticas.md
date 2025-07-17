@@ -14,6 +14,17 @@ permalink: /praticas/
 4. **Antena Yagi-Uda para 2 metros**: [GitHub](https://github.com/thotypous/telecom-p4), [formulário](https://forms.gle/Yx5gMVpQQXmX4Y4h6)
 5. **Demodulador OFDM**: em breve!
 
+# Seminário
+
+ * Preencha o [formulário](https://forms.gle/fkAVENPGreAahuU46).
+ * Seu grupo pode escolher qual prática apresentar.
+ * A apresentação deve ser **de apenas 10 minutos**.
+ * Após a apresentação, haverá uma sessão de perguntas para os membros do grupo.
+ * Façam uma apresentação aprofundada da prática, não se limitem a apresentar as instruções do README.
+ * Se possível, incluam alguma coisa nova, alguma ideia que o grupo de vocês teve.
+ * Mostrem o experimento ou simulação funcionando.
+ * Membros do grupo que não puderem comparecer no dia podem participar via Meet, mas precisa ter alguém do grupo na sala para mostrar o experimento.
+
 # Tutorial
 
 Sempre que possível, as práticas serão avaliadas por meio de correção automatica. Quando for esse o caso, veja as instruções abaixo.
