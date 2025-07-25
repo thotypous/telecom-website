@@ -12,7 +12,7 @@ permalink: /praticas/
 2. **Interface E1**: [GitHub](https://github.com/thotypous/telecom-p2), [formulário](https://forms.gle/nW2WWobCUi4NH6Zp6)
 3. **Interface Ethernet 10baseT**: [GitHub](https://github.com/thotypous/telecom-p3), [formulário](https://forms.gle/saLwV1KvQmpSVcnc7)
 4. **Antena Yagi-Uda para 2 metros**: [GitHub](https://github.com/thotypous/telecom-p4), [formulário](https://forms.gle/Yx5gMVpQQXmX4Y4h6)
-5. **Demodulador OFDM**: em breve!
+5. **Transceptor IEEE 802.11a/g**: [GitHub](https://github.com/thotypous/telecom-p5), [formulário](https://forms.gle/chs1HQJf7UK2Nebj6)
 
 # Seminário
 
