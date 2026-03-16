@@ -6,39 +6,32 @@ permalink: /praticas/
 
 # Links
 
-1. **Modem dial-up V.21**. Escolha uma das versões abaixo:
-   * C++: [GitHub](https://github.com/thotypous/telecom-p1), [formulário](https://forms.gle/CXTun9tmLDDqweiu7)
-   * Rust: [GitHub](https://github.com/thotypous/telecom-p1-rust), [formulário](https://forms.gle/F1sqHmL2MphyFXBw6)
-2. **Interface E1**: [GitHub](https://github.com/thotypous/telecom-p2), [formulário](https://forms.gle/nW2WWobCUi4NH6Zp6)
-3. **Interface Ethernet 10baseT**: [GitHub](https://github.com/thotypous/telecom-p3), [formulário](https://forms.gle/saLwV1KvQmpSVcnc7)
-4. **Antena Yagi-Uda para 2 metros**: [GitHub](https://github.com/thotypous/telecom-p4), [formulário](https://forms.gle/Yx5gMVpQQXmX4Y4h6)
-5. **Transceptor IEEE 802.11a/g**: [GitHub](https://github.com/thotypous/telecom-p5), [formulário](https://forms.gle/chs1HQJf7UK2Nebj6)
+1. **Modem dial-up V.21** (escolha **uma** das opções abaixo: Rust **ou** C++)
+   * [Repositório público (Rust)](https://github.com/thotypous/telecom-p1-rust)
+   * [Iniciar prática (Rust)](#) (em breve)
+   * [Repositório público (C++)](https://github.com/thotypous/telecom-p1-cpp)
+   * [Iniciar prática (C++)](#) (em breve)
 
-# Seminário
+2. **Interface E1**
+   * [Repositório público](https://github.com/thotypous/telecom-p2)
+   * [Iniciar prática](#) (em breve)
 
- * Preencha o [formulário](https://forms.gle/fkAVENPGreAahuU46).
- * Seu grupo pode escolher qual prática apresentar.
- * A apresentação deve ser **de apenas 10 minutos**.
- * Após a apresentação, haverá uma sessão de perguntas para os membros do grupo.
- * Façam uma apresentação aprofundada da prática, não se limitem a apresentar as instruções do README.
- * Se possível, incluam alguma coisa nova, alguma ideia que o grupo de vocês teve.
- * Mostrem o experimento ou simulação funcionando.
- * Membros do grupo que não puderem comparecer no dia podem participar via Meet, mas precisa ter alguém do grupo na sala para mostrar o experimento.
+3. **Interface Ethernet 10baseT**
+   * [Repositório público](#) (em breve)
+   * [Iniciar prática](#) (em breve)
+
+4. **Antena Yagi-Uda para 2 metros**
+   * [Repositório público](#) (em breve)
+   * [Iniciar prática](#) (em breve)
+
+5. **Receptor IEEE 802.11a/g**
+   * [Repositório público](#) (em breve)
+   * [Iniciar prática](#) (em breve)
 
 # Tutorial
 
-Sempre que possível, as práticas serão avaliadas por meio de correção automatica. Quando for esse o caso, veja as instruções abaixo.
-
-Veja os passos abaixo no [vídeo](https://youtu.be/JtQzTGoF8jM):
-
-1. Importe o trabalho do **GitHub** para um repositório na conta de um dos membros do grupo (**não** faça um *fork*!)
-
-2. Vá em Settings / Actions e:
-   * em "Actions permissions", marque "Allow all actions and reusable workflows"
-   * em "Workflow permissions", marque "Read and write permissions"
-
-3. Convide os demais membros do seu grupo e o professor ([thotypous](https://GitHub.com/thotypous)) como colaboradores.
-
-4. Cadastre o repositório e os membros do grupo no **formulário** correspondente.
-
-Obs.: As notas não são mais enviadas por e-mail sempre que há alguma alteração. Agora você pode consultá-las na página de notas por meio do link que você recebeu no e-mail intitulado "Link para consultar notas".
+1. Clique no link `Iniciar prática` correspondente à prática que você quer começar.
+2. Se você ainda não houver atrelado sua conta GitHub a um usuário da disciplina, ele vai pedir para você escolher seu número UFSCar e nome completo da lista.
+   * Você vai receber um e-mail na madrugada seguinte confirmando essa operação. Assim, se alguém fizer gracinha e se cadastrar no seu nome, você saberá quem foi ;D
+3. Crie um grupo ou entre em um grupo existente.
+4. O GitHub Classroom criará um repositório para o seu grupo trabalhar. Você pode clonar o repositório e trabalhar localmente no seu PC, e/ou trabalhar online pelo Codespaces.
