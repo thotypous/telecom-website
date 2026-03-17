@@ -29,7 +29,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
-* [Slides](/static/aula1.pdf)
+* [Slides](/static/modulo1.pdf)
 
 ### Avaliações
 
