@@ -8,9 +8,9 @@ permalink: /praticas/
 
 1. **Modem dial-up V.21** (escolha **uma** das opções abaixo: Rust **ou** C++)
    * [Repositório público (Rust)](https://github.com/thotypous/telecom-p1-rust)
-   * [Iniciar prática (Rust)](#) (em breve)
+   * [Iniciar prática (Rust)](https://classroom.github.com/a/-NaCDyJP) (**RECOMENDADO**)
    * [Repositório público (C++)](https://github.com/thotypous/telecom-p1-cpp)
-   * [Iniciar prática (C++)](#) (em breve)
+   * [Iniciar prática (C++)](https://classroom.github.com/a/WnEtmsrU)
 
 2. **Interface E1**
    * [Repositório público](https://github.com/thotypous/telecom-p2)
