@@ -29,7 +29,12 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
-* [Slides](/static/modulo1.pdf)
+* [**Slides do Módulo 1**](/static/modulo1.pdf)
+* [Course Notes: Signals, Systems and Inference — Capítulo 12](https://ocw.mit.edu/courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/d2df3fc906190f978ad666c9c63cdc5d_MIT6_011S10_chap12.pdf)
+* [Additional Experiments for Communication System Design Using DSP Algorithms](https://user.eng.umd.edu/~tretter/commlab/c6713slides/AdditionalExperiments.pdf) — Capítulo 20
+* [Minimum Shift Keying (MSK) - A Tutorial](https://www.dsprelated.com/showarticle/1016.php)
+* [Transmission Line Theory](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electronics/Microwave_and_RF_Design_II_-_Transmission_Lines_(Steer)/02%3A_Transmission_Lines/2.02%3A_Transmission_Line_Theory)
+* [ITU-T V.21](https://www.itu.int/rec/T-REC-V.21/en)
 
 ### Avaliações
 
@@ -53,9 +58,14 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
-* [GUIMARAES, DAYAN A. Digital transmission: a simulation-aided introduction with VisSim/Comm](https://doi.org/10.1007/978-3-642-01359-1), Capítulo 4.
-* [E1 Pocket Guide](https://web.fe.up.pt/~mleitao/STEL/Tecnico/E1_ACTERNA.pdf)
-* [Cisco MC3810V](/static/cisco-MC3810V.pdf)
+* [**Slides do Módulo 2**](/static/modulo2.pdf)
+* [Pocket Guide to The world of E1](https://web.archive.org/web/20240429125245/https://web.fe.up.pt/~mleitao/STEL/Tecnico/E1_ACTERNA.pdf)
+* [Digital Transmission](https://doi.org/10.1007/978-3-642-01359-1) — Capítulo 4
+* [How do CRCs work?](https://youtu.be/izG7qT0EpBw)
+* [Tipos de Sinalização nos Sistemas de Telefonia](https://www.slideshare.net/slideshow/sinalizacao-tipos-de-sinalizacao-nos-sistemas-de-telefonia/272583472)
+* [Treinamento Cisco MC3810V](https://telecom.matias.co.in/static/cisco-MC3810V.pdf)
+* [ITU-T G.703](https://www.itu.int/rec/T-REC-G.703/en)
+* [ITU-T G.704](https://www.itu.int/rec/T-REC-G.704/en)
 
 ### Avaliações
 
