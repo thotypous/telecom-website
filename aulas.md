@@ -53,9 +53,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
-* [GUIMARAES, DAYAN A. Digital transmission: a simulation-aided introduction with VisSim/Comm](https://doi.org/10.1007/978-3-642-01359-1), Capítulo 4.
-* [E1 Pocket Guide](https://web.fe.up.pt/~mleitao/STEL/Tecnico/E1_ACTERNA.pdf)
-* [Cisco MC3810V](/static/cisco-MC3810V.pdf)
+* [Slides](/static/modulo2.pdf)
 
 ### Avaliações
 
