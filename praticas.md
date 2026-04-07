@@ -14,7 +14,7 @@ permalink: /praticas/
 
 2. **Interface E1**
    * [Repositório público](https://github.com/thotypous/telecom-p2)
-   * [Iniciar prática](#) (em breve)
+   * [Iniciar prática](https://classroom.github.com/a/tCljR546)
 
 3. **Interface Ethernet 10baseT**
    * [Repositório público](#) (em breve)
