@@ -75,13 +75,14 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Tópicos
 
-* Topologias de rede e acesso ao meio
-* CSMA/CD e binary exponential backoff
-* Janela de colisão e tamanho mínimo de quadro Ethernet
-* Ethernet 10BASE-T e codificação Manchester
-* Preâmbulo, SFD e link test pulses
-* Endereçamento MAC e quadro Ethernet
-* Hubs vs. switches e evolução do Ethernet
+* Ethernet como separação entre MAC, PHY, PCS/PMA/PMD e meio físico
+* Evolução de ALOHA para CSMA/CD, domínio de colisão e backoff exponencial binário
+* Quadro Ethernet: preâmbulo, SFD, endereçamento MAC, ordem LSB-first, FCS CRC-32 e tamanho mínimo
+* 10BASE-T half-duplex: Manchester, AFE discreto, link pulses, hubs, switches e prática com ARP
+* 100BASE-TX/FX: 4B/5B, NRZI, MLT-3, scrambling, equalização e fibra
+* 1000BASE-X/T: 8B/10B, SerDes, PAM5, quatro pares, eco, diafonia, treinamento e DSP
+* 10GBASE-T e 10GbE óptico: PAM16, LDPC/FEC, 64B/66B, XGMII/XAUI e módulos ópticos
+* PHYs Ethernet modernas: 40G/100G+, lanes paralelas, PAM4, FEC Reed-Solomon, backplane e DAC
 
 ### Práticas
 
@@ -89,9 +90,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
-* [The Ethernet Evolution: From 10 Meg to 10 Gig How it all Works!](https://www.iol.unh.edu/sites/default/files/knowledgebase/ethernet/ethernet_evolution.pdf) (somente até o slide 228)
-* [Building a 10BASE5 "Thick Ethernet" network](https://www1.fs.cvut.cz/cz/u12110/prt/site/lan/10BASE5.htm)
-* [How does Ronja work?](http://ronja.twibright.com/technotes/how.php)
+* [**Slides do Módulo 3**](/static/modulo3.pdf)
+* [The Ethernet Evolution: From 10 Meg to 10 Gig How it all Works!](https://www.iol.unh.edu/sites/default/files/knowledgebase/ethernet/ethernet_evolution.pdf)
+* [Building a 10BASE5 "Thick Ethernet" network](https://www.mattmillman.com/projects/10base5/)
+* [100BASE-TX PMD](https://www.iol.unh.edu/sites/default/files/knowledgebase/fe/100BASE-TX_PMD.pdf)
 
 ### Avaliações
 
