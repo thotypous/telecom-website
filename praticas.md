@@ -17,8 +17,8 @@ permalink: /praticas/
    * [Iniciar prática](https://classroom.github.com/a/tCljR546)
 
 3. **Interface Ethernet 10baseT**
-   * [Repositório público](#) (em breve)
-   * [Iniciar prática](#) (em breve)
+   * [Repositório público](https://github.com/thotypous/telecom-p3)
+   * [Iniciar prática](https://classroom.github.com/a/k6rMBSW9)
 
 4. **Antena Yagi-Uda para 2 metros**
    * [Repositório público](#) (em breve)
