@@ -104,11 +104,16 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Tópicos
 
-* Propagação em meios não guiados
-* Projeto e aferição de antenas
-* Link budget
-* Introdução ao radioamadorismo, espectro e licenciamento
-* APRS e satélites de radioamador
+* Radioamadorismo no Brasil: licenciamento, classes, indicativos, operação supervisionada, radiação restrita e plano de bandas
+* Equações de Maxwell, onda plana, impedância do espaço livre, vetor de Poynting e regiões de campo próximo/distante
+* Antenas de fio: dipolo de Hertz, dipolo curto real, resistência de radiação, reatância, ressonância, eficiência e perdas
+* Linhas de transmissão, casamento de impedância, ROE/SWR, transformadores de quarto de onda, stubs, coaxial e ladder line
+* Simulação de antenas com NEC2/MoM e OpenEMS/FDTD, incluindo limites de modelagem e validação experimental
+* Projeto de antenas Yagi-Uda: elementos parasitas, ganho, relação frente-costas, casamento, hairpin, gamma match e baluns/chokes
+* Medição com NanoVNA: calibração SOLT/OSLT, carta de Smith, ressonância vs casamento, TDR, medição de cabos, chokes, traps e filtros
+* Orçamento de enlace: Friis, FSPL, EIRP/PIRE, ruído térmico, G/T, Eb/N0, margem e Doppler em LEO
+* Satélites de radioamador: ISS/APRS em VHF, QO-100 em SHF, cadeias de RF, antenas e diferenças entre LEO e GEO
+* Protocolos de pacote: AX.25, APRS, digipeating, modulações AFSK/G3RUH/GMSK/BPSK, Reed-Solomon e IL2P
 
 ### Práticas
 
@@ -116,6 +121,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
+* [**Slides do Módulo 4**](/static/modulo4.pdf)
 * [Eletromagnetismo para Engenheiros de Computação](https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-spring-2009/pages/lecture-notes/)
 * [QRP to the ISS](https://www.work-sat.com/ewExternalFiles/QRP-ISS.pdf)
 * [Planilha explicativa de link budget da AMSAT-IARU](http://www.amsatuk.me.uk/iaru/AMSAT-IARU_Link_Model_Rev2.5.5.xls)
