@@ -137,12 +137,15 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Tópicos
 
-* Códigos de correção de erros (FEC)
-* ARQ e HARQ
-* Modulação OFDM e prefixo cíclico
-* Rádio definido por software (SDR)
-* Camada física do IEEE 802.11a/g
-* Scrambling e interleaving
+* Rádio definido por software: fronteira entre RF analógico, conversores, FPGA e DSP em software
+* Arquiteturas de recepção SDR: super-heteródino, conversão direta, amostragem direta, LimeSDR e SDRZero
+* OFDM em 802.11a/g: IFFT/FFT, subportadoras, ortogonalidade, prefixo cíclico, pilotos e treinamento
+* DSSS/Barker em 802.11b como contraponto histórico ao OFDM para canais com multi-caminho
+* Estrutura do pacote 802.11a/g: STS, LTS, SIGNAL, DATA, SERVICE, PSDU, TAIL e CRC
+* Defeitos de RF e canal: ruído térmico, multi-caminho, fading seletivo, CFO, ruído de fase, desequilíbrio I/Q, DC offset e erro/deriva de temporização
+* Cadeia de recepção da prática: detecção de pacote, correção de CFO, janela FFT, estimação de canal, equalização, pilotos, demapper, deinterleaver, Viterbi, descrambler e CRC
+* Códigos convolucionais binários (BCC), interleaving, puncturing, LLRs e decodificação de Viterbi
+* LDPC: matriz de paridade, grafo de Tanner, min-sum, códigos estruturados e escolha de LDPC em Wi-Fi moderno
 
 ### Práticas
 
@@ -150,18 +153,23 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
+* [**Slides do Módulo 5**](/static/modulo5.pdf)
 * SCHWARZINGER, Andreas. Digital Signal Processing in Modern Communication Systems. 2. ed. 2022. 637 p. ISBN 9780988873506.
   * Seção 5.4 – *Multi Tone - OFDM*
   * Seção 5.6 – *Error correction*
   * Capítulo 6 – *Distortion, Offsets, and Noise in communication systems*
   * Capítulo 7 – *OFDM based communication systems*
+* [SDRZero — Descrição do Circuito](https://wabicafe.com.br/py2sdr/SDRZero/SDRZero_1.php)
+* [Naftali Chayat, *TGa Preamble Design Considerations*, IEEE 802.11-98/124](https://www.ieee802.org/11/Documents/DocumentArchives/1999_docs/91248A-TGa-Preamble-Considerations.pdf)
+* [Gallager, *Low-Density Parity-Check Codes*](https://mitpress.mit.edu/9780262070072/low-density-parity-check-codes/)
+* [IEEE 802.11-04/1362r0, *Structured LDPC code design*](https://mentor.ieee.org/802.11/dcn/04/11-04-1362-00-000n-structured-ldpc-code-design.doc)
 
 ### Avaliações
 
-* 02/06 - mini-teste T5 (8h-10h) + acompanhamento da prática P5 (10h-12h)
+* 09/06 - mini-teste T5 (8h-10h) + acompanhamento da prática P5 (10h-12h)
 
 
-## Aulas de bancada (09/06, 16/06)
+## Aula de bancada (16/06)
 
 ### Atividades
 
