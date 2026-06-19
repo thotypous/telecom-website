@@ -20,9 +20,9 @@ permalink: /praticas/
    * [Repositório público](https://github.com/thotypous/telecom-p3)
    * [Iniciar prática](https://classroom.github.com/a/k6rMBSW9)
 
-4. **Antena Yagi-Uda para 2 metros**
-   * [Repositório público](#) (em breve)
-   * [Iniciar prática](#) (em breve)
+4. **Antena Yagi-Uda para 70cm**
+   * [Repositório público](https://github.com/thotypous/telecom-p4)
+   * [Iniciar prática](https://classroom.github.com/a/fnSQL23c)
 
 5. **Receptor IEEE 802.11a/g**
    * [Repositório público](#) (em breve)
