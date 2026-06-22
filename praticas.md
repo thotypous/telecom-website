@@ -25,8 +25,8 @@ permalink: /praticas/
    * [Iniciar prática](https://classroom.github.com/a/fnSQL23c)
 
 5. **Receptor IEEE 802.11a/g**
-   * [Repositório público](#) (em breve)
-   * [Iniciar prática](#) (em breve)
+   * [Repositório público](https://github.com/thotypous/telecom-p5)
+   * [Iniciar prática](https://classroom.github.com/a/QeNVg45J)
 
 # Tutorial
 
